@@ -1,12 +1,27 @@
 {
-	"songs" : [
+	"Lahoriye" : [
 		{
-			"name"	: "hello world",
-			"url"	: "www.youtube.com/helloworld"
+			"name"	: "JanJhan",
+			"url"	: "https://www.youtube.com/watch?v=YWcdxF5EbbU"
 		},
 		{
-			"name"	: "store will be amazing",
-			"url"	: "www.youtube.com/adeora7"
+			"name"	: "Akhar",
+			"url"	: "https://www.youtube.com/watch?v=BneomzOccuk"
+		}
+	],
+
+	"Lahoriye Extended" : [
+		{
+			"name" : "Saah",
+			"url"  : "https://www.youtube.com/watch?v=VOZm4hLcWg0"
+		},
+		{
+			"name"  : "JanJhan",
+			"url"   : "https://www.youtube.com/watch?v=YWcdxF5EbbU"
+		},
+		{
+			"name"  : "Akhar",
+			"url"   : "https://www.youtube.com/watch?v=BneomzOccuk"
 		}
 	]
 }
