@@ -39,7 +39,7 @@ function verifyVideo(video){
 			the_name = JSON.parse(the_name);
 			the_name = the_name.items[0].snippet.title;
 			video.name = the_name;
-			fs.writeFile(masterFilePath, JSON.stringify(mainObj)); 
+			fs.writeFile(masterFilePath, JSON.stringify(mainObj, null, "\t")); 
 		}
 	};
 	x.send();
